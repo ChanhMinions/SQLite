@@ -31,6 +31,33 @@ A. MÔ TẢ VỀ Android Studio:
 
 ### và đông thời ta ấn phím button (load data)
 - sẽ hiện rõ cái mà ta đang nhập ở phần dưới ( Data List) 
+- Sau khi chúng ta thực hiện các nút (add)
+
+![image](Untitled44.png)
+
+- xong chúng ta cilck ( Load data) để load lại dữ liệu
+
+- chúng ta tiếp tục với nút khác đương tự
+ 
+![image](Untitled45.png)
+
+
+- Bạn không thích nữa bạn muốn xóa :
+
+![image](Untitled46.png)
+
+- Bạn muốn sửa:
+
+![image](Untitled47.png)
+
+- bạn sửa thành công:
+
+![image](Untitled48.png)
+
+- Chúng ta thực hiện nút ( Find)
+
+![image](Untitled49.png)
+
 
 ### Tổng kết
 - Trong bài viết này chúng ta đã tìm hiểu về hệ quản trị cơ sở dữ liệu quan hệ Android SQLite. Chúng ta cũng đã tìm hiểu các lớp thư viện Android dùng cho việc tương tác giữa ứng dụng Android với cơ sở dữ liệu SQLite và cũng đã thực hiện một ứng dụng minh họa sử dụng các lớp thư viện này. Mã nguồn các tập tin cơ bản của ứng dụng SQLiteDemoApplication
