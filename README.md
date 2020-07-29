@@ -34,3 +34,13 @@ A. MÔ TẢ VỀ Android Studio:
 
 ### Tổng kết
 - Trong bài viết này chúng ta đã tìm hiểu về hệ quản trị cơ sở dữ liệu quan hệ Android SQLite. Chúng ta cũng đã tìm hiểu các lớp thư viện Android dùng cho việc tương tác giữa ứng dụng Android với cơ sở dữ liệu SQLite và cũng đã thực hiện một ứng dụng minh họa sử dụng các lớp thư viện này. Mã nguồn các tập tin cơ bản của ứng dụng SQLiteDemoApplication
+
+### Chúc Các Bạn Thành Công !!!
+
+### :
+
+- <a href="https://github.com/ChanhMinions/DaoQuanhUngDungAndroid">Dạo quanh ứng dụng Android trong Android Studio 3.X!</a>
+
+![image](ezr.png)
+
+                                                                                  Trần Phú , Ngày 23 tháng 7 Năm 2020
