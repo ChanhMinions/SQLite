@@ -64,10 +64,8 @@ A. MÔ TẢ VỀ Android Studio:
 
 ### Chúc Các Bạn Thành Công !!!
 
-### :
-
 - <a href="https://github.com/ChanhMinions/DaoQuanhUngDungAndroid">Dạo quanh ứng dụng Android trong Android Studio 3.X!</a>
 
 ![image](ezr.png)
 
-                                                                                  Trần Phú , Ngày 23 tháng 7 Năm 2020
+                                                                                  ###Trần Phú , Ngày 23 tháng 7 Năm 2020
