@@ -68,4 +68,4 @@ A. MÔ TẢ VỀ Android Studio:
 
 ![image](ezr.png)
 
-                                                                                  ###Trần Phú , Ngày 23 tháng 7 Năm 2020
+                                                                                  Trần Phú , Ngày 23 tháng 7 Năm 2020
